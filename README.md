@@ -15,6 +15,6 @@ ____
 Еще проблема в том, что после обработки yolo, картинка никак не хочет конвертироваться в bytes, поэтому используется стороний сервис хостинга картинок на который картинки отправляются в формате base64.
 
 Вот как это выглядит
-![Demo](https://https://github.com/IvanPermyakov/TelegramBotOnDeta/Picture/Bird.jpg)
+![Demo](https://github.com/IvanPermyakov/TelegramBotOnDeta/blob/main/Picture/Bird.jpg)
 
-![Demo2](https://https://github.com/IvanPermyakov/TelegramBotOnDeta/Picture/Fruits.jpg)
+![Demo2](https://github.com/IvanPermyakov/TelegramBotOnDeta/blob/main/Picture/Fruits.jpg)
