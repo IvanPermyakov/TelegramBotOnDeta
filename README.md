@@ -16,6 +16,7 @@ ____
 
 
 Вот как это выглядит
+
 ![BIRD](https://github.com/IvanPermyakov/TelegramBotOnDeta/blob/main/Picture/Bird.JPG)
 
 ![FRUITS](https://github.com/IvanPermyakov/TelegramBotOnDeta/blob/main/Picture/Fruits.JPG)
